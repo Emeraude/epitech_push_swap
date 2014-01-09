@@ -8,5 +8,5 @@ The algorithm is an insertion sort.
 
 Options :
 
-	-r, --reverse : reverse in descending mode
+	-r, --reverse : sort in descending mode
 	-v, --verbose : display the state of the lists after each operation
