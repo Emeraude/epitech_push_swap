@@ -11,4 +11,4 @@ Options :
 	-r, --reverse : sort in descending mode
 	-v, --verbose : display the state of the lists after each operation
 
-Mark : 13 (since, leak and mallocs are corrected)
+Mark : 21 (since, leak and mallocs are corrected)
